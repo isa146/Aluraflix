@@ -1,0 +1,60 @@
+body {
+    color: pink;
+    background: black;
+    margin: 0px;
+  font-family: "Rubik Wet Paint", sans-serif;
+}
+
+
+header {
+    border-bottom: solid 1px rgb(73, 32, 117);
+    padding: 22px;
+    font-size: 42px;
+    color: rgb(73, 32, 117);
+}
+.chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+    
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+.chamada-texto {
+    margin-right: 6%;
+}
+body {
+    color: li   lightpink;
+    background: black;
+    margin: 0px;
+    font-family: "Rubik Wet Paint", sans-serif;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  p {
+    font-size: 20px;
+  }
+  img {
+    height: 200px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
